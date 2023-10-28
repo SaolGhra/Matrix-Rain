@@ -17,6 +17,8 @@ To run this program, you'll need:
 1. **Clone the repository:**
    git clone https://github.com/saolghra/matrix-rain.git
 
+## Preview
+https://imgur.com/a/e2vGWLD
 
 ## Install Pygame:
 
